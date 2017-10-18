@@ -1,4 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":416,"scrollY":322}
+{"id":1,"expanded":false,"name":"Sandbox","order":1,"parentId":0,"scrollX":1513,"scrollY":643.5},
+{"id":2,"expanded":false,"name":"Tent1","order":2,"parentId":0,"scrollX":935,"scrollY":651.5},
+{"id":3,"expanded":false,"name":"Tent2","order":3,"parentId":0,"scrollX":935,"scrollY":343.5}
 ]
