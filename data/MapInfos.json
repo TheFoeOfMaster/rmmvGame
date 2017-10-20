@@ -3,8 +3,5 @@ null,
 {"id":1,"expanded":false,"name":"Sandbox","order":1,"parentId":0,"scrollX":935,"scrollY":643.5},
 {"id":2,"expanded":false,"name":"Tent1","order":2,"parentId":0,"scrollX":935,"scrollY":651.5},
 {"id":3,"expanded":false,"name":"Tent2","order":3,"parentId":0,"scrollX":546,"scrollY":319.6666666666667},
-{"id":4,"expanded":false,"name":"Tent3","order":4,"parentId":0,"scrollX":546,"scrollY":319.6666666666667},
-{"id":5,"expanded":false,"name":"6","order":5,"parentId":0,"scrollX":546,"scrollY":319.6666666666667},
-{"id":6,"expanded":false,"name":"54345435","order":6,"parentId":0,"scrollX":935,"scrollY":651.5},
-{"id":7,"expanded":false,"name":"8","order":7,"parentId":0,"scrollX":935,"scrollY":651.5}
+{"id":4,"expanded":false,"name":"Tent3","order":4,"parentId":0,"scrollX":935,"scrollY":651.5}
 ]
